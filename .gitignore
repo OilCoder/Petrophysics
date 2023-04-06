@@ -1,0 +1,17 @@
+# Ignore all directories except 'LAS files'
+/*
+!/LAS files
+!/.gitignore
+
+# Ignore files related to your Conda environment
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.pyd
+*.swp
+*.bak
+*.pyc
+*.pyo
+*.pyd
+*~
