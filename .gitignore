@@ -1,6 +1,7 @@
 # Ignore all directories except 'LAS files'
 /*
 !/LAS files
+!/code
 !/.gitignore
 
 # Ignore files related to your Conda environment
