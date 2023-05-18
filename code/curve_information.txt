@@ -1,0 +1,107 @@
+Curve: DEPT, Unit: FT, Description: DEPTH
+Curve: GR, Unit: API, Description: GR
+Curve: NEU, Unit: API, Description: NEU
+Curve: DCAL, Unit: IN, Description: CDL Caliper
+Curve: DPOR, Unit: PU, Description: CDL Density Porosity
+Curve: NPOR, Unit: PU, Description: Neutron Porosity
+Curve: RHOC, Unit: G/CC, Description: CDL Density Correction
+Curve: RILD, Unit: OHM-M, Description: DIL Deep Resistivity
+Curve: RILM, Unit: OHM-M, Description: DIL Medium Resistivity
+Curve: RLL3, Unit: OHM-M, Description: DIL Shallow Resistivity
+Curve: SP, Unit: MV, Description: DIL Spontaneous Potential
+Curve: AVTX, Unit: FT3, Description: Annular Volume Ticks
+Curve: BVTX, Unit: FT3, Description: Borehole Volume Ticks
+Curve: CILD, Unit: MMHO/M, Description: DIL Deep Conductivity
+Curve: CNDL, Unit: PU, Description: CN Dolomite Porosity
+Curve: CNLS, Unit: PU, Description: CN Limestone Porosity
+Curve: CNPOR, Unit: PU, Description: CN Selected Porosity
+Curve: CNSS, Unit: PU, Description: CN Sandstone Porosity
+Curve: LSPD, Unit: FT/MIN, Description: Line Speed
+Curve: LTEN, Unit: LB, Description: Surface Line Tension
+Curve: RHOB, Unit: G/CC, Description: CDL Bulk Density
+Curve: RXORT, Unit: , Description: Rxo / Rt
+Curve: ABHV, Unit: FT3, Description: Annular Borehole Volume
+Curve: MN, Unit: OHM-M, Description: Micro Normal Resistivity
+Curve: MI, Unit: OHM-M, Description: Micro Inverse Resistivity
+Curve: MCAL, Unit: IN, Description: Caliper from Microlog
+Curve: TBHV, Unit: ft3, Description: 
+Curve: SWNC, Unit: cps, Description: 
+Curve: SCAL, Unit: in, Description: 
+Curve: SWPOR, Unit: pu, Description: 
+Curve: SWLS, Unit: pu, Description: 
+Curve: SWSS, Unit: pu, Description: 
+Curve: SWDL, Unit: pu, Description: 
+Curve: LGRD, Unit: Ohm-m, Description: 
+Curve: NPHI, Unit: V/V, Description: NEUTRON POROSITY
+Curve: DGA, Unit: G/CC, Description: 
+Curve: DT, Unit: USEC/FT, Description: 
+Curve: ITT, Unit: MSEC, Description: 
+Curve: SPOR, Unit: PU, Description: 
+Curve: MEL15, Unit: Ohm-m, Description: Microlog
+Curve: MEL20, Unit: Ohm-m, Description: Microlog
+Curve: MELCAL, Unit: in, Description: Micro Caliper
+Curve: DEPTH, Unit: FT, Description: Depth
+Curve: ILD, Unit: OHM-M, Description: Deep Induction Resistivity
+Curve: DPHI, Unit: PU, Description: Density porosity
+Curve: GR:1, Unit: API, Description: Gamma Ray
+Curve: GR:2, Unit: API, Description: Gamma Ray
+Curve: GSXT, Unit: DEGF, Description: MGS External Temperature
+Curve: IECX, Unit: IN, Description: MIE Caliper X
+Curve: IECY, Unit: IN, Description: MIE Caliper Y
+Curve: NPRL, Unit: PERC, Description: Limestone Neutron Por.
+Curve: CLDC, Unit: IN, Description: Density Caliper
+Curve: DCOR, Unit: G/C3, Description: Density Correction
+Curve: DEN, Unit: G/C3, Description: Compensated Density
+Curve: PDPE, Unit: B/E, Description: PE
+Curve: DPRL, Unit: PERC, Description: Limestone Density Por.
+Curve: GGME, Unit: GAPI, Description: Borehole Corr. MGS Gamma
+Curve: CTAS, Unit: MMHO, Description: Array Ind. Six Cond Ct
+Curve: R20S, Unit: OHMM, Description: Array Ind. Six Res 20
+Curve: R30S, Unit: OHMM, Description: Array Ind. Six Res 30
+Curve: R40S, Unit: OHMM, Description: Array Ind. Six Res 40
+Curve: R60S, Unit: OHMM, Description: Array Ind. Six Res 60
+Curve: R85S, Unit: OHMM, Description: Array Ind. Six Res 85
+Curve: RTAS, Unit: OHMM, Description: Array Ind. Six Res Rt
+Curve: PE, Unit: , Description: PE
+Curve: MSFCAL, Unit: in, Description: Caliper from MSFL
+Curve: MSFL, Unit: Ohm-m, Description: Micro Spherically Focused Resistivity
+Curve: NEUT, Unit: API, Description: NEUTRON
+Curve: CCL, Unit: , Description: Casing Collar Locator
+Curve: TT3, Unit: USEC, Description: CBL 3' Travel Time
+Curve: AMP3, Unit: MV, Description: CBL 3' Amplitude
+Curve: INC, Unit: deg, Description: Inclination
+Curve: AZI, Unit: deg, Description: Azimuth
+Curve: TVD, Unit: ft, Description: True Vertical Depth
+Curve: LATNS, Unit: ft, Description: Latitude North/South
+Curve: DEPEW, Unit: ft, Description: Departure East/West
+Curve: VSEC, Unit: ft, Description: Vertical Section
+Curve: DLS, Unit: �/100', Description: Dog-Leg Severity
+Curve: HVOL, Unit: F3, Description: Hole Volume
+Curve: AVOL, Unit: F3, Description: Annular Volume
+Curve: GRGM, Unit: GAPI, Description: MGS Gamma Ray
+Curve: BIT, Unit: IN, Description: Bit size
+Curve: PEF, Unit: BARNS/E, Description: Photoelectric factor
+Curve: PGXR-T, Unit: api, Description: PCG GR XHi-Range RT
+Curve: PGTVD, Unit: ft, Description: PCG True Vertical Depth
+Curve: PGVS, Unit: ft, Description: PCG Vertical Section
+Curve: ROPA, Unit: fph, Description: Avg Rate of Penetration
+Curve: LAT, Unit: OHMM, Description: Lateral
+Curve: MINMK, Unit: , Description: Minute Mark Ticks
+Curve: HVOLTA, Unit: V, Description: Head Voltage Apparent
+Curve: BCNF, Unit: cps, Description: Compensated Neutron Far Detector
+Curve: BCNN, Unit: cps, Description: Compensated Neutron Near Detector
+Curve: CALN, Unit: in, Description: Compensated Neutron Caliper (Diameter)
+Curve: CALD, Unit: in, Description: Litho Caliper (Diameter)
+Curve: CALM, Unit: in, Description: Micro Spherically Focused Tool Caliper (Diameter)
+Curve: ILM, Unit: ohm/m, Description: Phased Medium Induction Resistivity
+Curve: LWTLB, Unit: lb, Description: Line Weight Filtered (lbs)
+Curve: MINV, Unit: ohm/m, Description: MSFL Micro Inverse Resistivity
+Curve: MNOR, Unit: ohm/m, Description: MSFL Micro Normal Resistivity
+Curve: NPLS, Unit: %, Description: Compensated Neutron Porosity (NAPI, Limestone Matrix)
+Curve: DPLS, Unit: %, Description: Lithology Density Porosity (Matrix Density 2.71 g/cc)
+Curve: PORS, Unit: %, Description: Sonic Derived Porosity
+Curve: SFL, Unit: ohm/m, Description: Spherically Focused Resistivity, Environmentally Corrected
+Curve: TT1, Unit: us, Description: Travel Time (Filtered Heavier) (Transmitter 1 - Receiver 1)
+Curve: TT2, Unit: us, Description: Travel Time (Filtered Heavier) (Transmitter 2 - Receiver 2)
+Curve: TT4, Unit: us, Description: Travel Time (Filtered Heavier) (Transmitter 2 - Receiver 1)
+Curve: DRHO, Unit: g/cc, Description: Lithology Density (LDP-DA) Correction
